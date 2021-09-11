@@ -1,7 +1,7 @@
 ## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=AbhishekTilwar" alt="AbhishekTilwar" /> 
+	<img src="https://komarev.com/ghpvc/?username=yashraval05" alt="yashraval05" /> 
 	<a href="https://github.com/yashraval05?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
 </p>
 
