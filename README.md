@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashraval05r&show_icons=true" alt="yashraval05" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashraval05&show_icons=true" alt="yashraval05" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraval05&layout=compact" alt="yashraval05" /> </p>
 
 
