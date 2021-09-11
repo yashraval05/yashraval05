@@ -2,7 +2,7 @@
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=yashraval05" alt="yashraval05" /> 
-	<a href="https://github.com/yashraval05?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
+	<a href="https://github.com/yashraval05?tab=repositories"><img src="https://badges.pufler.dev/repos/yashraval05" alt="yashraval05" /> </a>
 </p>
 
 "Hi, Yash Raval is a sophomore with an interest in Artificial Intelligence, Machine Learning And Data Science. He loves to combine his passion with software development skills to build new products."
@@ -34,17 +34,15 @@ Here are some ideas to get you started:
  
 
 ## 👯 Communities
-* President @ CodeChef SITS Chapter
-* Influncer @ Google Crowdsource
 * Machine Learning Lead @ Google DSC
 <br>
 
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekTilwar&show_icons=true" alt="AbhishekTilwar" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekTilwar&layout=compact" alt="AbhishekTilwar" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashraval05r&show_icons=true" alt="yashraval05" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashraval05&layout=compact" alt="yashraval05" /> </p>
 
 
 
 <p align="center">
-<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/AbhishekTilwar?tab=repositories"> repositories!</a></h4>
+<h4 align="center">Show some ❤️ by starring some of my <a href="https://github.com/yashraval05?tab=repositories"> repositories!</a></h4>
 </p>
