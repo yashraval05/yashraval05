@@ -2,37 +2,33 @@
 
 <p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=AbhishekTilwar" alt="AbhishekTilwar" /> 
-	<a href="https://github.com/AbhishekTilwar?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
+	<a href="https://github.com/yashraval05?tab=repositories"><img src="https://badges.pufler.dev/repos/AbhishekTilwar" alt="AbhishekTilwar" /> </a>
 </p>
 
-"Hi, Abhishek Tilwar is a sophomore with an interest in Artificial Intelligence, Machine Learning, Django, Android and Web Development. He loves to combine his passion with software development skills to build new products."
+"Hi, Yash Raval is a sophomore with an interest in Artificial Intelligence, Machine Learning And Data Science. He loves to combine his passion with software development skills to build new products."
 
-Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way. I have been contributing *to make the students well versed with development & programming*.
-I am presently pursuing Btech in *Computer Engineering(CE)* From Pune University. 
+Being passionate about technology, having a desire to learn and explore more makes me what I am. I like to do new things and expand my knowledge with any sort of opportunity which comes my way.
+I am presently pursuing B.E in *Computer Engineering(CE)* From Pune University. 
 
 
 ### About Me 🚀
 Here are some ideas to get you started:		
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="400px" />
-- 📚 I’m currently started to learning Web Development.
+- 📚 I’m currently started to learning Data Science.
 - 📈 Highly passionate to convert ideas into code 🤓.
-- 🔭 I’m currently involved in Competitive Programming.
-- 🤓 I have worked on some android apps projects.
-- 🎯 2020-21 Goles : 🌐 Web Development, 
+- 🔭 I’m currently involved in Dynamic Programming.
+- 🎯 2020-21 Goles : 🌐 Data Science, 
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
 <p align="center">
-<a href="https://github.com/AbhishekTilwar" target="_blank">
+<a href="https://github.com/yashraval05" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-tilwar/" target="_blank">
+<a href="https://www.linkedin.com/in/yash-raval-056991217/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/AbhishekTilwar" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:abhishektilwar@gmail.com">
+<a href="mailto:yashraval05@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
  
@@ -40,7 +36,7 @@ Here are some ideas to get you started:
 ## 👯 Communities
 * President @ CodeChef SITS Chapter
 * Influncer @ Google Crowdsource
-* Google Cloud Facilitator @ Google
+* Machine Learning Lead @ Google DSC
 <br>
 
 <br>
